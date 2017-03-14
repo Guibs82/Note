@@ -359,7 +359,7 @@ def urllib2_cookie():
         "Referer": "http://www.renren.com/",
         # "Accept-Encoding": "gzip, deflate, sdch",
         "Accept-Language": "zh-CN,zh;q=0.8",
-        "Cookie": "anonymid=j07scb8p-fuyz20; depovince=GW; jebecookies=8483c8f9-45ec-44e8-8eca-d5f4aab85c47|||||; _r01_=1; JSESSIONID=abcfI7Kt5KFQ5hYR5JgRv; ick_login=42025b18-873b-4da8-ab23-3baa80e72871; jebe_key=a0d840b6-171f-4a16-b3ff-1287ff3100e0%7Ccfcd208495d565ef66e7dff9f98764da%7C1489389987666%7C0%7C1489389987743; _de=DD3E3C53F6E6FC0D7D49636C5D3D4B7E696BF75400CE19CC; p=967cc679c118665718e0902004bd390b6; first_login_flag=1; ln_uact=805249506@qq.com; ln_hurl=http://hdn.xnimg.cn/photos/hdn421/20150108/2300/h_main_25rL_683200017ac91986.jpg; t=09451b183810d190a8e90777363a31a76; societyguester=09451b183810d190a8e90777363a31a76; id=338899086; xnsid=396fb5c1; loginfrom=syshome",
+        "Cookie": "xxxxxxxxxxxx",
     }
 
     request = urllib2.Request("http://www.renren.com/", headers=headers)
